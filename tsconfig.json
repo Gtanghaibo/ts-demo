@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "noLib": false,
+        "lib": ["esnext", "dom"]
+    }
+}
